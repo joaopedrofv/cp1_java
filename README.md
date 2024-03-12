@@ -17,6 +17,7 @@
 
 
 **Venda:**
+
 **Atributos:** ID, cliente (referência ao Cliente), itens de venda (produtos com quantidades), data, valor total.
 
 **Métodos:** Construtores, getters/setters, calcularTotal(), toString().
